@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TomeraRenne
 - 👀 I’m interested in cheese!
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on creating application
+- 💞️ I’m looking to collaborate on developing applications
 
 
 <!---
